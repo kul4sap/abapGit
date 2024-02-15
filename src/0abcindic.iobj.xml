@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0ABCINDIC</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>ABCINDIC</FIELDNM>
+    <CONTREL>3.5/03</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>ABC indicator</TEXTSHORT>
+    <TEXTLONG>ABC indicator for technical object</TEXTLONG>
+    <CHAPRSNT>1</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>0ABCINDIC</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <TXTSHFL>X</TXTSHFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000001</INTLEN>
+    <CONTTIMESTMP>20040629110019</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <APPLNM>PM-IO</APPLNM>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>1</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000001</OUTPUTLEN>
+    <TXTTAB>/BI0/TABCINDIC</TXTTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>0QM</INFOAREA>
+    <LENG>000001</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>M</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
